@@ -18,7 +18,8 @@
   },
   "author": "Hampton and Michael Catlin, build Wordium for wordtalk (https://github.com/wordtalk/wordium).",
   "license": "MIT",
-            "Jean Wallet, build wordium for wordtalk at 'Wordtalk' (http://twubs.com/wordtalk/)
+            "Jean Wallet, build wordium for wordtalk at 'Wordtalk' (http://twubs.com/wordtalk/).",
+  "license": "AGPL-3.0", (https://www.gnu.org/licenses/)
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
     "broccoli-clean-css": "^1.0.0",
