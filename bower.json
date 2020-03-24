@@ -1,5 +1,5 @@
 {
-  "name": "wordset",
+  "name": "wordium",
   "dependencies": {
     "jquery": "^2.1.4",
     "ember": "1.13.7",
