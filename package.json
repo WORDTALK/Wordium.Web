@@ -1,7 +1,7 @@
 {
   "name": "wordium",
   "version": "0.0.0",
-  "description": "Small description for wordset goes here",
+  "description": "Small description for wordium goes here",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -16,7 +16,7 @@
   "engines": {
     "node": ">= 0.12.0"
   },
-  "author": "Hampton and Michael Catlin, build Wordium forwordtalk (https://github.com/wordtalk/wordium).",
+  "author": "Hampton and Michael Catlin, build Wordium for wordtalk (https://github.com/wordtalk/wordium).",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
