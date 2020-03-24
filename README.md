@@ -1,6 +1,6 @@
-# Wordset UI
+# Wordium UI
 
-Wordset UI is the Ember front-end layer for [Wordset](https://www.wordset.org). Wordset is a collaborative, structured dictionary.
+Wordium UI is the Ember front-end layer for [Wordset](https://www.wordset.org). Wordset is a collaborative, structured dictionary.
 
 [![Travis CI](https://travis-ci.org/wordset/wordset-ui.png?branch=master)](https://travis-ci.org/wordset/wordset-ui)
 
