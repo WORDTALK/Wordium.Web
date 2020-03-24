@@ -1,6 +1,6 @@
 {
   "name": "wordium",
-  "version": "0.0.0",
+  "version": "1.1.1",
   "description": "Small description for wordium goes here",
   "private": true,
   "directories": {
@@ -18,6 +18,7 @@
   },
   "author": "Hampton and Michael Catlin, build Wordium for wordtalk (https://github.com/wordtalk/wordium).",
   "license": "MIT",
+            "Jean Wallet, build wordium for wordtalk at 'Wordtalk' (http://twubs.com/wordtalk/)
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
     "broccoli-clean-css": "^1.0.0",
