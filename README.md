@@ -27,7 +27,7 @@ You will need the following things properly installed on your computer.
 
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-* Make sure the Rails back-end ([Wordset api](http://github.com/wordtalk/wordium-api)) is also running, or else you'll see no data.
+* Make sure the Rails back-end ([Wordium api](http://github.com/wordtalk/wordium-api)) is also running, or else you'll see no data.
 
 ### Code Generators
 
