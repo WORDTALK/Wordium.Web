@@ -1,5 +1,5 @@
 {
-  "name": "wordset",
+  "name": "wordium",
   "root": "./dist",
   "prerender": true,
   "routes": {
@@ -7,7 +7,7 @@
   },
   "proxy": {
     "data": {
-      "origin": "https://data.wordset.org",
+      "origin": "https://github.com/wordtalk/wordium/ or http://twubs.com/wordtalk",
       "cookies": false,
       "headers": {
         "content-type": "text/javascript"
